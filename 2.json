@@ -1,0 +1,46 @@
+[
+	{
+		"name": "География"
+	},
+	{
+		"question": "Столица России:", 
+		"options": {
+			"option1": "Санкт-Петербург", 
+			"option2": "Москва", 
+			"option3": "Краснодар", 
+			"option4": "Новосибирск"
+		}
+	},
+	{
+		"question": "Столица Франции:", 
+		"options": {
+			"option1": "Марсель", 
+			"option2": "Женева", 
+			"option3": "Леон", 
+			"option4": "Париж"
+		}
+	},
+	{
+		"question": "Столица Китая:", 
+		"options": {
+			"option1": "Пекин", 
+			"option2": "Шанхай", 
+			"option3": "Гуанчжоу", 
+			"option4": "Шеньян"
+		}
+	},
+	{
+		"question": "Столица США:", 
+		"options": {
+			"option1": "Нью-Йорк", 
+			"option2": "Чикаго", 
+			"option3": "Вашингтон", 
+			"option4": "Лос-Анджелес"
+		}
+	},
+	{
+		"question1": "option2", 
+		"question2": "option4", 
+		"question3": "option1", 
+		"question4": "option3"}
+]

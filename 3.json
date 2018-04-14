@@ -1,0 +1,46 @@
+[
+	{
+		"name": "История"
+	},
+	{
+		"question": "Кто является Президентом России?", 
+		"options": {
+			"option1": "Путин", 
+			"option2": "Медведев", 
+			"option3": "Навальный", 
+			"option4": "Жириновский"
+		}
+	},
+	{
+		"question": "Кто является Президентом США?", 
+		"options": {
+			"option1": "Буш", 
+			"option2": "Трамп", 
+			"option3": "Обама", 
+			"option4": "Клинтон"
+		}
+	},
+	{
+		"question": "В каком году СССР перестал существовать?", 
+		"options": {
+			"option1": "2000", 
+			"option2": "1990", 
+			"option3": "1991", 
+			"option4": "1989"
+		}
+	},
+	{
+		"question": "В каком году была открыта Америка?", 
+		"options": {
+			"option1": "1500", 
+			"option2": "1492", 
+			"option3": "1833", 
+			"option4": "1287"
+		}
+	},
+	{
+		"question1": "option1", 
+		"question2": "option2", 
+		"question3": "option3", 
+		"question4": "option2"}
+]
